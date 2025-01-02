@@ -53,16 +53,12 @@ Automates personalized letter creation.
 
 #How to Run
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/vyshnaviar/Python-Pro-Bootcamp.git
 Navigate to the desired project folder.
 Run the Python script using:
-bash
-Copy code
 python <script_name>.py
 
-Features
+Features:
 Beginner-friendly programs covering foundational concepts.
 OOP-based applications demonstrating reusable code structure.
 Interactive games and projects showcasing problem-solving skills.
