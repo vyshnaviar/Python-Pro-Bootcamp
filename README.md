@@ -3,7 +3,7 @@
 This repository contains a collection of Python projects created during my Python Pro Bootcamp journey. These projects range from beginner-level programs to intermediate applications, covering various programming concepts and challenges.
 
 Projects Overview
-#Beginner Level
+#Beginner Level:
 Band Name Generator
 A simple program to generate creative band names based on user input.
 Tip Calculator
@@ -13,7 +13,7 @@ A text-based adventure game where users make choices to find hidden treasure.
 Rock Paper Scissors
 Classic Rock-Paper-Scissors game against the computer.
 
-#Intermediate Level
+#Intermediate Level:
 Password Generator
 Generates strong, random passwords based on user-defined criteria.
 Hangman
@@ -21,7 +21,7 @@ A word-guessing game using a predefined list of words.
 Caesar Cipher
 Encodes and decodes messages using Caesar Cipher encryption.
 
-#Advanced Projects
+#Advanced Projects:
 Secret Auction Program
 Simulates a secret auction where the highest bidder wins.
 Calculator
@@ -50,3 +50,19 @@ Turtle Capstone Project
 A comprehensive Turtle graphics project.
 Mail Merge Project
 Automates personalized letter creation.
+
+#How to Run
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/vyshnaviar/Python-Pro-Bootcamp.git
+Navigate to the desired project folder.
+Run the Python script using:
+bash
+Copy code
+python <script_name>.py
+
+Features
+Beginner-friendly programs covering foundational concepts.
+OOP-based applications demonstrating reusable code structure.
+Interactive games and projects showcasing problem-solving skills.
